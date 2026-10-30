@@ -3,14 +3,14 @@
 Attitude (roll / pitch / yaw) estimation for an experimental rocket, with a live 3D viewer on the PC.
 Inspired by the "Drone Flight Controller using MPU6050 + ESP32" project, adapted for a **GY-801** module and rocket flight conditions.
 
-![wiring](docs/wiring.svg)
+![wiring](Docs/wiring.svg)
 
-> ✅ Tested on real hardware (ESP32 + GY-801). A short demo video is in `docs/demo.gif` — see below.
+> ✅ Tested on real hardware (ESP32 + GY-801). A short demo video is in `Docs/demo.gif` — see below.
 
 ## Hardware
 - ESP32 dev board
 - GY-801 10DOF module (ADXL345, L3G4200D, HMC5883L, BMP180)
-- Breadboard and 4 jumper wires (see [docs/wiring.md](docs/wiring.md))
+- Breadboard and 4 jumper wires (see [docs/wiring.md](Docs/wiring.md))
 
 ## Quick start
 1. Wire the board as shown above.
