@@ -5,6 +5,8 @@ Inspired by the "Drone Flight Controller using MPU6050 + ESP32" project, adapted
 
 ![wiring](docs/wiring.svg)
 
+> ✅ Tested on real hardware (ESP32 + GY-801). A short demo video is in `docs/demo.gif` — see below.
+
 ## Hardware
 - ESP32 dev board
 - GY-801 10DOF module (ADXL345, L3G4200D, HMC5883L, BMP180)
